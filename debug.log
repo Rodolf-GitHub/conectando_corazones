@@ -1,0 +1,280 @@
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746387638}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746387638}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746390427}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746391466}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746391664}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746391664}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746391849}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746391849}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746391976}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746392019}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746392019}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746392113}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746392306}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+
+--- Nueva solicitud de autenticación ---
+Token recibido: eyJhbGciOiJIUzI1NiIs...
+Token decodificado (payload): {'sub': 'admin2', 'email': 'admin2@example.com', 'id': '944422c533e94ac08133f51749cf8464', 'exp': 1746407454}
+Información extraída del token - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
+Buscando usuario por ID: 944422c533e94ac08133f51749cf8464
+Usuario encontrado exitosamente - ID: 944422c533e94ac08133f51749cf8464, Username: admin2
