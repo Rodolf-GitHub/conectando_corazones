@@ -6,7 +6,15 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 import os
 
-app = FastAPI()
+app = FastAPI(
+    title="Conectando Corazones API",
+    description="API para la aplicación Conectando Corazones",
+    version="1.0.0",
+    # Configurar las rutas de documentación explícitamente
+    docs_url="/api/docs",          # Cambiado de /docs a /api/docs
+    redoc_url="/api/redoc",        # Cambiado de /redoc a /api/redoc
+    openapi_url="/api/openapi.json" # Cambiado de /openapi.json a /api/openapi.json
+)
 
 # Crear directorio para imágenes si no existe
 UPLOAD_DIR = "uploads"
