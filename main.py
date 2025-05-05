@@ -19,7 +19,7 @@ app.mount("/uploads", StaticFiles(directory=UPLOAD_DIR), name="uploads")
 # Configurar CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173","https://conectandocorazonesfront.e-comcuba.com"],  # Permitir el origen de tu frontend
+    allow_origins=["http://localhost:5173","https://conectandocorazonesfront.e-comcuba.com","https://conectando-corazones.onrender.com"],  # Permitir el origen de tu frontend
     allow_credentials=True,  # Permitir cookies
     allow_methods=["*"],  # Permitir todos los métodos HTTP
     allow_headers=["*"],  # Permitir todos los headers
